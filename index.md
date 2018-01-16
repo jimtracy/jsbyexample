@@ -1,1 +1,1 @@
-[Module 2](module2.md)
+[Module 2](module2)
