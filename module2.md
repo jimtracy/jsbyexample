@@ -7,7 +7,7 @@ my_array = [1,2,3,4,5];
 ```
 
 Now you can refer to the individual elements in the array using their position (again, with square brackets). This is called "dereferencing" the array. Try this:
-```
+```javascript
 my_array = [1,2,3,4,5];
 print(my_array[3]);
 print(my_array[0]);
